@@ -20,7 +20,7 @@ psho67/psho67은 GitHub 프로필에 'README.md '(이 파일)이 표시되기 �
 - 감정 카드를 모으고 감정 카드를 모으고
 - 하루의 감정을 일기로 적는 따뜻한 공간입니다. 하루의 감정을 일기로 적는 따뜻한 공간입니다.
 
-[▶️ 감정 숲 체험하기](https://emotion-forest.vercel.app)▶️ 감정 숲 체험하기](https://emotion-forest.vercel.app)
+[▶️ 감정 숲 체험하기]https://emotion-forest1-uctb-git-main-psho67s-projects.vercel.app
 
 ## 기술 스택 기술 스택
 리액트, 테일윈드CSS, 프레임 모션, 비테
